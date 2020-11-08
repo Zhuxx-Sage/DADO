@@ -1,0 +1,8 @@
+关于GPU加速：
+https://blog.csdn.net/xxboy61/article/details/97973288
+https://blog.csdn.net/xiaosongshine/article/details/89401522
+https://zhuanlan.zhihu.com/p/54350088
+
+
+关于强化学习：
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
