@@ -1,0 +1,17 @@
+关于GPU加速：
+https://blog.csdn.net/xxboy61/article/details/97973288
+https://blog.csdn.net/xiaosongshine/article/details/89401522
+https://blog.csdn.net/xiaosongshine/article/details/89266233
+
+
+pytorch搭建神经网络的四种方式：
+https://blog.csdn.net/qq_37385726/article/details/81740233
+
+关于强化学习：
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+
+gymh环境：
+https://github.com/openai/gym/wiki/MountainCarContinuous-v0
+
+概率分布：
+https://www.cnblogs.com/wt869054461/p/5936038.html
