@@ -1,0 +1,5 @@
+莫烦：连续动作action
+https://github.com/MorvanZhou/pytorch-A3C/blob/master/continuous_A3C.py
+
+问题：
+1. s(e,t)太大，导致travel time过大，没有能够出来的路了
